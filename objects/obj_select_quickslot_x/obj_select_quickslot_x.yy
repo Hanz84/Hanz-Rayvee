@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_select_quickslot_x",
     "eventList": [
-        
+        {
+            "id": "5935a2c0-3313-4580-a45a-b8d5280f33a3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "6650a7b9-1829-49f4-9c4b-e81884d55243"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
