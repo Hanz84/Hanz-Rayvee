@@ -1,0 +1,2 @@
+playerSlot = 1;
+
